@@ -10,3 +10,4 @@ Snippets for:
 * Coffeescript
 * Javascript
 * Html
+* Django
