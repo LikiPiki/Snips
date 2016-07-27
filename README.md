@@ -12,3 +12,4 @@ Snippets for:
 * Javascript
 * Html
 * Django
+* Python
