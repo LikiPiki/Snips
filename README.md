@@ -12,7 +12,6 @@ let g:UltiSnipsSnippetsDir = "~/.vim/plugged/Snips/UltiSnips"
 ```
 Plug 'LikiPiki/Snips'
 let g:neosnippet#snippets_directory='~/.vim/plugged/vim-snippets/snippets, ~/.vim/plugged/Snips/NeoSnippets'
-
 ```
 
 This is my(likipiki) snippets pack for ultisnips
